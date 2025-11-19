@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+.expo/
+.expo-shared/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
